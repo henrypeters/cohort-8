@@ -1,6 +1,6 @@
 # Transaction Vault (Timelock Savings Vault)
 
-A Solidity smart contract that implements a timelock savings vault, allowing users to deposit ETH with a强制 lock period before withdrawal.
+A Solidity smart contract that implements a timelock savings vault, allowing users to deposit ETH within a lock period before withdrawal.
 
 ## Overview
 
